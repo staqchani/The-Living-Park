@@ -1,0 +1,12 @@
+{
+  "name": "LivingPark.XR.Tests",
+  "references": [
+    "LivingPark.XR"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

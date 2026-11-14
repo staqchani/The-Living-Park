@@ -1,0 +1,16 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ivingParkProbe/
+/.m1-probe/
+/.living-park-library-*/
+*.log
+*.apk
+*.aab
+*.keystore
+*.jks
+*.zip

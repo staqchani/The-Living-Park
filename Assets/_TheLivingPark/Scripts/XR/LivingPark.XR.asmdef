@@ -1,0 +1,9 @@
+{
+  "name": "LivingPark.XR",
+  "references": [
+    "Unity.XR.CoreUtils",
+    "Unity.InputSystem",
+    "Unity.XR.Interaction.Toolkit",
+    "LivingPark.Construction"
+  ]
+}
